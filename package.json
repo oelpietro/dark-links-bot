@@ -1,9 +1,9 @@
 {
-  "name": "dark-vip-bot",
+  "name": "dark-links-bot",
   "version": "1.0.0",
-  "main": "dark.js",
+  "main": "darklinks.js",
   "scripts": {
-    "start": "node dark.js"
+    "start": "node darklinks.js"
   },
   "dependencies": {
     "dotenv": "^16.6.1",
