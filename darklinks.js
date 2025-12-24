@@ -139,7 +139,7 @@ bot.start(async (ctx) => {
       source: path.join(__dirname, "imagens", "5037788251149765451.jpg")
     },
     {
-      caption: "🔞 DARK LINKS 🌚🔗
+      caption: `🔞 DARK LINKS 🌚🔗
 
 🗂 LIVES +18
 🗂 IDOSAS +18
@@ -162,7 +162,7 @@ Por ✅ 24,90 R$
 ⚠️ Você precisa ser maior de idade para comprar!
 
 ✅ Seguro, nada ilegal aqui!
-✅ Entrada automática após o pagamento",
+✅ Entrada automática após o pagamento`,
       parse_mode: "Markdown",
       ...Markup.inlineKeyboard([
         [Markup.button.callback("💰 Plano Semanal — R$ 24,90", "pagar_2490")],
