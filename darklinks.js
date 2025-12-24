@@ -149,7 +149,7 @@ bot.start(async (ctx) => {
 🗂 CASADAS +18
 🗂 SCAT +18
 🗂 GORDINHAS +18
-🗂 GRÁVIDAS +18
+🗂 GRAVIDAS +18
 🗂 HARD +18
 🗂 LACTANTES +18
 🗂 FEMBOYS +18
