@@ -139,32 +139,7 @@ bot.start(async (ctx) => {
       source: path.join(__dirname, "imagens", "5037788251149765451.jpg")
     },
     {
-      caption: "🔞 DARK LINKS 🌚🔗
-
-🗂 LIVES +18
-🗂 IDOSAS +18
-🗂 NOVINHAS +18
-🗂 AMADORAS  +18
-🗂 BDSM +18
-🗂 CASADAS +18
-🗂 SCAT +18
-🗂 GORDINHAS +18
-🗂 GRÁVIDAS +18
-🗂 HARD +18
-🗂 LACTANTES +18
-🗂 FEMBOYS +18
-🗂 VAZADAS +18
-
-De ❌ 34,90 R$
-             👇
-Por ✅ 24,90 R$
-
-⚠️ Você precisa ser maior de idade para comprar!
-
-✅ Seguro, nada ilegal aqui!
-✅ Entrada automática após o pagamento
-  
-  🔥 *Escolha seu plano*\n\nClique abaixo para gerar o PIX:",
+      caption: ""🔞 DARK LINKS 🌚🔗✅\n\n  🗂 LIVES +18/n 🗂 IDOSAS +18/n 🗂 NOVINHAS +18/n 🗂 AMADORAS  +18/n 🗂 BDSM +18/n 🗂 CASADAS +18/n+ 🗂 SCAT +18/n 🗂 GORDINHAS +18/n 🗂 GRÁVIDAS +18/n 🗂 HARD +18/n 🗂 LACTANTES +18/n 🗂 FEMBOYS +18/n 🗂 VAZADAS +18/n/n De ❌ 34,90 R$/n 👇/n Por ✅ 24,90 R$/n/n⚠️ Você precisa ser maior de idade para comprar!/n/n✅ Seguro, nada ilegal aqui!/n ✅ Entrada automática após o pagamento/n🔥 *Escolha seu plano*\n\nClique abaixo para gerar o PIX:"",
       parse_mode: "Markdown",
       ...Markup.inlineKeyboard([
         [Markup.button.callback("💰 Plano Semanal — R$ 24,90", "pagar_2490")],
