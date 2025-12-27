@@ -165,7 +165,7 @@ Por ✅ 24,90 R$
 ✅ Entrada automática após o pagamento`,
       parse_mode: "Markdown",
       ...Markup.inlineKeyboard([
-        [Markup.button.callback("💰 Plano Semanal — R$ 24,90", "pagar_2490")],
+        [Markup.button.callback("💰 Acesso Vitalicio — R$ 24,90", "pagar_2490")],
         [Markup.button.url("🆘 Suporte", "https://t.me/romanogs")]
       ])
     }
